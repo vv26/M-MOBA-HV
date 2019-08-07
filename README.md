@@ -1,2 +1,2 @@
-# Multiobjective-Ranking-and-Selection
-M-MOBA Hypervolume method
+# Multiobjective Ranking and Selection based on Hypervolume
+This code is for research only
